@@ -1,0 +1,26 @@
+{
+  "C_Cpp.autoAddFileAssociations": true,
+  "files.associations": {
+    "*.vue": "vue",
+    "*.js": "javascript",
+    "*.svg": "html",
+    "*.hbs": "handlebars",
+    "Dockerfile*": "dockerfile",
+    "*.Makefile": "makefile",
+    "*.mk": "makefile",
+    "*.yml.disabled": "YAML",
+    "*.conf": "NGINX",
+    "*.c": "c",
+    "fwfilter.h": "c",
+    "stdint.h": "c",
+    "sock.h": "c",
+    "list.h": "c",
+    "hardirq.h": "c",
+    "module.h": "c",
+    "cache.h": "c",
+    "export.h": "c",
+    "types.h": "c",
+    "percpu.h": "c",
+    "cstdint": "cpp"
+  }
+}
