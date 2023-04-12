@@ -2,4 +2,4 @@ build:
 	gcc -Wall -pedantic -o capture capture.c -lpcap
 
 clean:
-	rm capture
+	rm -rf capture
